@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nantha 👋
 
-<!--
-**nanthamom/nanthamom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student @ City St George's University of London
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- Python
+- SQL
+- C++
+- Full Stack Development
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- PocketFlow
+- Grocery Shopping Analytics
+
+### 📚 Interests
+Systems Thinking • History • Chess • Reading
+
+### 📫 Connect
+LinkedIn:
+www.linkedin.com/in/nantha-mom
